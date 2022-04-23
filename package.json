@@ -1,0 +1,21 @@
+{
+    "name": "Sylvi-VSCode-Theme",
+    "displayName": "Sylvi-VSCode-Theme",
+    "description": "Sylvi's VSCode Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sylvi-Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sylvi-Theme-color-theme.json"
+            }
+        ]
+    }
+}
